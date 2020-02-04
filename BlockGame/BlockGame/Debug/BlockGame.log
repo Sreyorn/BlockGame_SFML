@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\sreyorn\desktop\blockgame\blockgame\source.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\sreyorn\desktop\blockgame\blockgame\source.cpp(94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  BlockGame.vcxproj -> C:\Users\sreyorn\Desktop\BlockGame\Debug\BlockGame.exe
